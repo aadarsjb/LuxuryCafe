@@ -36,9 +36,9 @@ const Enroll = () => {
         e.preventDefault();
 
         // EmailJS configuration
-        const serviceID = 'service_k44r8bx'; // Replace with your EmailJS service ID
-        const templateID = 'template_nq82wtr'; // Replace with your EmailJS template ID
-        const publicKey = 'EiH4Cq6dX0iW0al1u'; // Replace with your EmailJS public key
+        const serviceID = 'ID'; // Replace with your EmailJS service ID
+        const templateID = 'ID'; // Replace with your EmailJS template ID
+        const publicKey = 'ID'; // Replace with your EmailJS public key
 
         // Prepare email parameters
         const emailParams = {
